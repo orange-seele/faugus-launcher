@@ -1,5 +1,5 @@
 # Faugus
-This is a Nix Flake for Faugus [Launcher](https://github.com/Faugus/faugus-launcher).
+This is a Nix Flake for [Faugus Launcher](https://github.com/Faugus/faugus-launcher).
 For the project's features, usage, and general documentation, please refer to the upstream project.
 
 # Installation
